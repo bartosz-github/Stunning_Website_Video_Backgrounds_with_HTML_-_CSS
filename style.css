@@ -27,6 +27,12 @@
     transition: 0.5s;
 }
 
+.content h1:hover {
+    -webkit-text-stroke: 2px white;
+    color: transparent;
+}
+
+
 .back-video {
     position: absolute;
     right: 0;
