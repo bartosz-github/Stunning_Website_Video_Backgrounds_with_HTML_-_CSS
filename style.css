@@ -16,6 +16,11 @@
     align-items: center;
 }
 
+.content {
+    text-align: center;
+}
+
+
 .back-video {
     position: absolute;
     right: 0;
