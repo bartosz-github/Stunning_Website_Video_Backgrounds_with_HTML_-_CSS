@@ -20,6 +20,12 @@
     text-align: center;
 }
 
+.content h1 {
+    font-size: 160px;
+    color: #fff;
+    font-weight: 600;
+    transition: 0.5s;
+}
 
 .back-video {
     position: absolute;
